@@ -78,3 +78,4 @@ This command will generate 50 tokens of text starting with "Once upon a time" us
 ## Configuration
 Adjust the configuration settings in the `config.py` file to change default parameters such as model paths and text generation settings.
 
+![1727519600956](https://github.com/user-attachments/assets/00dd45e1-4dc2-45a8-b68a-6dd7c3b78bbc)
